@@ -1,7 +1,7 @@
 # ------------------------------------------------------------------------
 # Radiance spectrum
 # NASA-GSFC Planetary Spectrum Generator (PSG) (Villanueva et al. 2018, 2022)
-# Synthesized on Wed Feb 14 22:28:38 2024
+# Synthesized on Wed Feb 14 23:00:05 2024
 # Doppler velocities [km/s] (vobs,vrot+vorb,vwidth,vrfl,vstr): 0.00000,-0.00000,0.00000,-119.41115,-0.00000
 # Spectral unit: Wavelength [um]
 # Radiance unit: Spectral irradiance [W/m2/um]
